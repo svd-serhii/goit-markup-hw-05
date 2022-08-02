@@ -54,20 +54,19 @@ img {
     padding-bottom: 94px;
 }
 
-
-/* Header */
-
-.header {
-    border-bottom: 1px solid #ececec;
-}
-
 .container {
     width: 100%;
     max-width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+}
+
+
+/* Header */
+
+.header {
+    border-bottom: 1px solid #ececec;
 }
 
 .logo-header {
